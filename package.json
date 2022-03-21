@@ -1,0 +1,17 @@
+{
+  "name": "csv-to-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["csv", "sql", "node", "express"],
+  "author": "fvhde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "papaparse": "^5.3.2",
+    "sql.js": "^1.6.2"
+  }
+}
